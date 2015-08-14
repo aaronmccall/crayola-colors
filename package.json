@@ -1,6 +1,6 @@
 {
   "name": "crayola-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "350+ crayon colors from classic to cray-cray",
   "main": "index.js",
   "scripts": {
