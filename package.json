@@ -1,0 +1,25 @@
+{
+  "name": "crayola-colors",
+  "version": "1.0.0",
+  "description": "350+ crayon colors from classic to cray-cray",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronmccall/crayola-colors.git"
+  },
+  "keywords": [
+    "colors",
+    "crayon",
+    "crayola",
+    "hex-colors"
+  ],
+  "author": "Aaron McCall <aaron@andyet.net> (https://github.com/aaronmccall)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronmccall/crayola-colors/issues"
+  },
+  "homepage": "https://github.com/aaronmccall/crayola-colors"
+}
